@@ -27,8 +27,8 @@
 /* Begin PBXFileReference section */
 		556169FC2187C5A600105DD1 /* P7_3 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = P7_3; sourceTree = BUILT_PRODUCTS_DIR; };
 		556169FF2187C5A600105DD1 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
-		55616A062187C5B800105DD1 /* empl.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = empl.h; path = ../../../cccfiles/empl.h; sourceTree = "<group>"; };
-		55616A072187C5B800105DD1 /* empl.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = empl.cpp; path = ../../../cccfiles/empl.cpp; sourceTree = "<group>"; };
+		55616A062187C5B800105DD1 /* empl.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = empl.h; sourceTree = "<group>"; };
+		55616A072187C5B800105DD1 /* empl.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = empl.cpp; sourceTree = "<group>"; };
 		55616A092187C61500105DD1 /* account.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = account.cpp; sourceTree = "<group>"; };
 		55616A0A2187C61500105DD1 /* account.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = account.hpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
