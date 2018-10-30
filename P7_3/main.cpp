@@ -70,6 +70,7 @@ int main(int argc, const char * argv[]) {
         cout << "\n";
     }
     
+    cout << "!!!TEST FROM P7_4 PROJECT!!!" << endl;
     return 0;
 }
 
@@ -136,7 +137,6 @@ bool scan_last_names(Employee* a, int self_idx, vector<Employee*>& v, vector<Ban
             }
         }
     }
-    cout << "!!!TEST FROM P7_4 PROJECT!!!" << endl;
     return false;
 }
 void remove_account(vector<BankAccount*>& v, int idx){
