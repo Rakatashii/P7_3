@@ -47,7 +47,7 @@
 		556169F32187C5A600105DD1 = {
 			isa = PBXGroup;
 			children = (
-				556169FE2187C5A600105DD1 /* P7_3 */,
+				556169FE2187C5A600105DD1 /* P7_4 */,
 				556169FD2187C5A600105DD1 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -60,7 +60,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		556169FE2187C5A600105DD1 /* P7_3 */ = {
+		556169FE2187C5A600105DD1 /* P7_4 */ = {
 			isa = PBXGroup;
 			children = (
 				55616A062187C5B800105DD1 /* empl.h */,
@@ -69,7 +69,7 @@
 				55616A092187C61500105DD1 /* account.cpp */,
 				556169FF2187C5A600105DD1 /* main.cpp */,
 			);
-			path = P7_3;
+			path = P7_4;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
